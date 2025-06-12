@@ -34,7 +34,9 @@
 
 **الشكل**:
 
-![HomePage](pagescreen/home.png =100x20)
+
+<img src="pagescreen/home.png" alt="drawing" width="200"/>
+
 
 ### 3. **HotelPage**
 
