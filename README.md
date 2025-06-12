@@ -26,11 +26,7 @@
 
 ### 2. **HomePage**
 
-الصفحة الرئيسية التي تحتوي على شريط بحث للبحث عن المدن أو المناطق.
-
-- **المكونات**: 
-  - شريط بحث لاختيار المدينة.
-  - عرض نتائج البحث بناءً على اختيار المدينة من قائمة المدن المعروضة.
+الصفحة الرئيسية التي تحتوي خيرين واحد المطاعم و ثاني الفنادق.
 
 **الشكل**:
 
@@ -68,9 +64,9 @@
   - رابط المراجعات الخاصة بكل مطعم.
 
 **الشكل**:
-<img src="pagescreen/re1.png" alt="re" width="300"/>
-<img src="pagescreen/re2.png" alt="re" width="300"/>
-<img src="pagescreen/re3.png" alt="re" width="300"/>
+<img src="pagescreen/res1.png" alt="re" width="300"/>
+<img src="pagescreen/res2.png" alt="re" width="300"/>
+<img src="pagescreen/res3.png" alt="re" width="300"/>
 
 
 ---
