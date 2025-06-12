@@ -34,7 +34,7 @@
 
 **الشكل**:
 
-![HomePage](pagescreen/home.png)
+![HomePage](pagescreen/home.png){: width="300" height="200"}
 
 ### 3. **HotelPage**
 
@@ -47,14 +47,14 @@
 
 **الشكل**:
 
-![HotelPage](pagescreen/hotel1.png)
-![HotelPage](pagescreen/hotel2.png)
-![HotelPage](pagescreen/hotel3.png)
-![HotelPage](pagescreen/hotel4.png)
-![HotelPage](pagescreen/hotel5.png)
-![HotelPage](pagescreen/hotel6.png)
-![HotelPage](pagescreen/hotel7.png)
-![HotelPage](pagescreen/hotel8.png)
+![HotelPage](pagescreen/hotel1.png){: width="300" height="200"}
+![HotelPage](pagescreen/hotel2.png){: width="300" height="200"}
+![HotelPage](pagescreen/hotel3.png){: width="300" height="200"}
+![HotelPage](pagescreen/hotel4.png){: width="300" height="200"}
+![HotelPage](pagescreen/hotel5.png){: width="300" height="200"}
+![HotelPage](pagescreen/hotel6.png){: width="300" height="200"}
+![HotelPage](pagescreen/hotel7.png){: width="300" height="200"}
+![HotelPage](pagescreen/hotel8.png){: width="300" height="200"}
 
 
 ### 4. **RestaurantPage**
@@ -67,8 +67,9 @@
 
 **الشكل**:
 
-![RestaurantPage](assets/images/restaurantpage.png)
-
+![RestaurantPage](pagescreen/re1.png){: width="300" height="200"}
+![RestaurantPage](pagescreen/re2.png){: width="300" height="200"}
+![RestaurantPage](pagescreen/re3.png){: width="300" height="200"}
 ---
 
 ## طريقة التشغيل
@@ -76,4 +77,4 @@
 ### 1. تحميل المشروع
 
 ```bash
-git clone https://github.com/yourusername/tg_globle_app.git
+git clone https://github.com/mohmmadabdr/tg_globle_app.git
