@@ -49,8 +49,8 @@
 
 **الشكل**:
 
-<img src="pagescreen/hotel1.pmg" alt="Hotel" width="300"/>
-<img src="pagescreen/hotel2.png" alt="Hotel" width="300"/>
+<img src="pagescreen/hotel1.pmg" alt="Hotel" width="300"/> <img src="pagescreen/hotel2.png" alt="Hotel" width="300"/>
+
 <img src="pagescreen/hotel3.png" alt="Hotel" width="300"/>
 <img src="pagescreen/hotel4.png" alt="Hotel" width="300"/>
 <img src="pagescreen/hotel5.png" alt="Hotel" width="300"/>
