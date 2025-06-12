@@ -34,7 +34,7 @@
 
 **الشكل**:
 
-![HomePage](pagescreen/home.png){: width="300" height="200"}
+![HomePage](pagescreen/home.png){width="300"; height="200";}
 
 ### 3. **HotelPage**
 
