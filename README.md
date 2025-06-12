@@ -35,7 +35,7 @@
 **الشكل**:
 
 
-<img src="pagescreen/home.png" alt="drawing" width="200"/>
+<img src="pagescreen/home.png" alt="drawing" width="300"/>
 
 
 ### 3. **HotelPage**
