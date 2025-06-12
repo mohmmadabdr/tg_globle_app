@@ -35,7 +35,7 @@
 **الشكل**:
 
 
-<img src="pagescreen/home.png" alt="drawing" width="300"/>
+<img src="pagescreen/home.png" alt="HOME" width="300"/>
 
 
 ### 3. **HotelPage**
@@ -49,14 +49,14 @@
 
 **الشكل**:
 
-![HotelPage](pagescreen/hotel1.png){: width="300" height="200"}
-![HotelPage](pagescreen/hotel2.png){: width="300" height="200"}
-![HotelPage](pagescreen/hotel3.png){: width="300" height="200"}
-![HotelPage](pagescreen/hotel4.png){: width="300" height="200"}
-![HotelPage](pagescreen/hotel5.png){: width="300" height="200"}
-![HotelPage](pagescreen/hotel6.png){: width="300" height="200"}
-![HotelPage](pagescreen/hotel7.png){: width="300" height="200"}
-![HotelPage](pagescreen/hotel8.png){: width="300" height="200"}
+<img src="pagescreen/hotel1.pmg" alt="Hotel" width="300"/>
+<img src="pagescreen/hotel2.png" alt="Hotel" width="300"/>
+<img src="pagescreen/hotel3.png" alt="Hotel" width="300"/>
+<img src="pagescreen/hotel4.png" alt="Hotel" width="300"/>
+<img src="pagescreen/hotel5.png" alt="Hotel" width="300"/>
+<img src="pagescreen/hotel6.png" alt="Hotel" width="300"/>
+<img src="pagescreen/hotel7.png" alt="Hotel" width="300"/>
+<img src="pagescreen/hotel8.png" alt="Hotel" width="300"/>
 
 
 ### 4. **RestaurantPage**
@@ -68,10 +68,11 @@
   - رابط المراجعات الخاصة بكل مطعم.
 
 **الشكل**:
+<img src="pagescreen/re1.png" alt="re" width="300"/>
+<img src="pagescreen/re2.png" alt="re" width="300"/>
+<img src="pagescreen/re3.png" alt="re" width="300"/>
 
-![RestaurantPage](pagescreen/re1.png){: width="300" height="200"}
-![RestaurantPage](pagescreen/re2.png){: width="300" height="200"}
-![RestaurantPage](pagescreen/re3.png){: width="300" height="200"}
+
 ---
 
 ## طريقة التشغيل
